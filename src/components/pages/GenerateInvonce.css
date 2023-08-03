@@ -1,0 +1,32 @@
+.name{
+	align-items: center;
+}
+form{
+	padding: 7% 12%;
+	/* background-color: aquamarine; */
+	background: #BE93C5;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #7BC6CC, #BE93C5);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #7BC6CC, #BE93C5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+label{
+	font-size: 18px;
+	font-weight: 600;
+	margin-right: 16px !important;
+}
+input{
+	border-radius: 6px;
+	margin-left: 16px;
+}
+.col-6{
+	display: flex;
+justify-content: space-between;
+}
+h1{
+	text-align: center;
+	font-weight: 600;
+}
+mt-3{
+	align-items: center;
+}
