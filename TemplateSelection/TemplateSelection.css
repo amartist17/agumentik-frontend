@@ -1,0 +1,18 @@
+.container_main{
+    display: flex;
+    flex: 0.5;
+}
+
+.container_main_image1>img{
+    width: 67%;
+}
+
+.container_main_image2>img{
+    width: 113%;
+}
+
+.container_main_image3>img{
+    width: 63%;
+    margin-left: 37%;
+}
+
